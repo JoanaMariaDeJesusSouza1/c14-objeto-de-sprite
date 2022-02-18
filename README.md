@@ -1,0 +1,1 @@
+# c14-objeto-de-sprite
